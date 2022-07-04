@@ -1,6 +1,7 @@
 import React from "react";
 import WorkImg from "../assets/workImg.jpeg";
 import realEstate from "../assets/realestate.jpg";
+import cryptoBase from "../assets/cryptobase.png"
 
 const Work = () => {
   return (
@@ -17,7 +18,7 @@ const Work = () => {
         <div className=" grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${WorkImg})` }}
+            style={{ backgroundImage: `url(${cryptoBase})` }}
             className=" shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
@@ -26,12 +27,12 @@ const Work = () => {
                 CryptoBase React App
               </span>
               <div className=" pt-8 text-center">
-                <a href="https://cryptobase-f7da4.web.app/">
+                <a href="https://cryptobase-f7da4.web.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="/">
+                <a href="https://github.com/soyjb/PortfolioSite" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
