@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/PortfolioSite/static/css/main.2699d7e4.css",
-    "main.js": "/PortfolioSite/static/js/main.b417873d.js",
+    "main.js": "/PortfolioSite/static/js/main.7b663a81.js",
     "static/media/netflixsite.png": "/PortfolioSite/static/media/netflixsite.36dad3d4d6e1b2ad15ab.png",
     "static/media/realestate.jpg": "/PortfolioSite/static/media/realestate.44fd19f4c6872731149c.jpg",
     "static/media/cryptobase.png": "/PortfolioSite/static/media/cryptobase.8b429136ab6e7230b2e5.png",
     "static/media/workImg.jpeg": "/PortfolioSite/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/logo1.png": "/PortfolioSite/static/media/logo1.934675732be51949f693.png",
+    "static/media/financewebsite.png": "/PortfolioSite/static/media/financewebsite.f76051518fa4704b9ac0.png",
     "static/media/react.png": "/PortfolioSite/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/PortfolioSite/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/PortfolioSite/static/media/node.952a9ea986dcfa5229ad.png",
@@ -19,10 +20,10 @@
     "static/media/javascript.png": "/PortfolioSite/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/PortfolioSite/index.html",
     "main.2699d7e4.css.map": "/PortfolioSite/static/css/main.2699d7e4.css.map",
-    "main.b417873d.js.map": "/PortfolioSite/static/js/main.b417873d.js.map"
+    "main.7b663a81.js.map": "/PortfolioSite/static/js/main.7b663a81.js.map"
   },
   "entrypoints": [
     "static/css/main.2699d7e4.css",
-    "static/js/main.b417873d.js"
+    "static/js/main.7b663a81.js"
   ]
 }
